@@ -1,0 +1,17 @@
+Title: Writing Solid Ruby Code
+
+Abstract
+--------
+
+Do you always seem to be fixing bugs in your software project?  Are you spending more time fixing defects that actually implementing new behavior?  If so, this talk is for you.
+
+In the mid-90s, Steve Maquire wrote a book that strongly effected the way I developed software.  Primarily writing in C and C++ in those years, the struggle to deliver bug free software was especially a challenge.  In the book "Writing Solid Code", Steve gives sage advice on the problems of developing large software projects and the challenges that go with making sure your softare actual does what you think it should.
+
+Although as Ruby developers we are no longer using C to deliver our large projects, the challenge of writing solid, reliable code is still before us.  Based on Maquire's advice and my own years of Ruby experience, this talk will show developers tools, techniques and practices that they can use to improve their software and begin writing solid code.
+
+Motivation
+----------
+
+I recently inherited a project where reliability is a strong requirement of the system.  I'm sure other Ruby developers struggle with the same issues and revisiting Maquire's advice in "Writing Solid Code" (updated for Ruby development and a post-TDD world) is a good start in reaching the goal of more reliable systems.
+
+RubyConf talk proposal reference number: ba74221794c42920cfc5426d6bc4310b
